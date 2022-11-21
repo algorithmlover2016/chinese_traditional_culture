@@ -1,0 +1,6 @@
+Employees: No manager
+  Service Provider
+  Engineer
+  Hire
+
+倒树状结构，以人为本。客户为人，员工亦为人。众生平等，愉悦每位众生。
